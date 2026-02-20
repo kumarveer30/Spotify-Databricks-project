@@ -1,0 +1,9 @@
+{
+	"name": "dfactory-spotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e464c91-b83b-496b-b501-19f7d756a5da",
+		"tenantId": "eeb1c3f2-05a6-46a1-be24-0971fef9dbd4"
+	}
+}
